@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: rgb(217, 234, 240);
+    background-color: skyblue;
     color: #555;
 }
 header {
@@ -26,32 +26,33 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
-    background-color: black;
+    color: black;
+    background-color: lightskyblue;
     padding: 3px;
 }
 
 .my-style {
-    color: lightseagreen;
-    background-color: black;
+    color: black;
+    background-color: lightskyblue;
     padding: 3px;
 }
 
+.my-bio {
+    color: black;
+    background-color: lightskyblue;
+}
 .code-ninja-style {
-    color: blue;
-    background-color: lightblue;
+    color: black;
+    background-color: lightskyblue;
     padding: 3px;
 }
 
 .codys-styles {
-    background:rgb(92, 149, 235);
+    color: black;
+    background:lightskyblue;
 }
 
 .stans-styles {
-    background-color:lightgray;
-}
-
-.my-bio {
-    background-color: green;
-    color: white;
+    color: black;
+    background-color: lightskyblue;
 }
